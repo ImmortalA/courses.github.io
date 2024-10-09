@@ -28,6 +28,21 @@ No prior knowledge is required
 - Variables
 - Naming variables
 - Inputting data
-- 
-3. 
+- Arithmetic operations
+- Formatting output
+3. Conditional statements
+- Logic
+- if / else / elif
+4. Programming terminology: How to talk like a programmer!
+5. Loops
+- for
+- while
+- break / continue / pass
+6. Strings
+7. Functions
+- Define and call a function
+- Global / local variables
+7. Lists / Tuples / Sets / Dictionaries
+8. 
+9. 
 ### Schedule
