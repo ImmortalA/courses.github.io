@@ -14,12 +14,20 @@ No prior knowledge is required
 - https://www.geeksforgeeks.org/
 
 ### Course syllabus
-1. Introduction
+1. Basic concepts
 - What is programming?
 - Program
 - What is a programming language?
 - Python
 - Compiler
-2. 
+- Set up coding environment
+- Statements / Comments
+- Your frist program!
+2. Input / Output
+- Outputting data
+- Variables
+- Naming variables
+- Inputting data
+- 
 3. 
 ### Schedule
